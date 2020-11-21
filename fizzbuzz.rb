@@ -6,4 +6,3 @@ def fizzbuzz(int)
   elseß int % 15 == 0
     puts "Fizzbuzz"
 end
-ß
