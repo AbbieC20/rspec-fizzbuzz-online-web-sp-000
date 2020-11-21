@@ -1,6 +1,6 @@
 def fizzbuzz(int)
   if int % 3 == 0
-    returns "Fizz"
+    return "Fizz"
   elseif int % 5 == 0
     puts "Buzz"
   elseif int % 15 == 0
